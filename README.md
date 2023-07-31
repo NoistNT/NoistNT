@@ -18,22 +18,19 @@
 <br>
 
 <div>
-<p align="left">
-  <em>
-    I'm a passionate full stack developer, always in search of new challenges to
-    grow both personally and professionally in the IT world. My curiosity and
-    enthusiasm lead me to explore different aspects of development, from
-    interface design to back-end logic. I hope these projects reflect my way of
-    working and serve as a window into my work ethic.
-  </em>
-</p>
+  <p align="left">
+    <em>
+      I'm a passionate full stack developer, always in search of new challenges to
+      grow both personally and professionally in the IT world. My curiosity and
+      enthusiasm lead me to explore different aspects of development, from
+      interface design to back-end logic. I hope these projects reflect my way of
+      working and serve as a window into my work ethic.
+    </em>
+  </p>
 </div>
-
-<br />
-
 <br>
 
-<h3>🖥 Tech-Skills</h3> 
+<h3>🖥 Tech-Skills</h3>
 <br>
 
 - ✅ Languages ➤ JavaScript, HTML5, CSS3, SQL.
@@ -43,6 +40,7 @@
 - ✅ Version control ➤ Git, GitHub.
 - ✅ Design ➤ UI/UX Developer, Tailwind CSS.
 
+<br>
 <p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
@@ -130,9 +128,8 @@
     />
   </a>
 </p>
-
-
 <br>
+
 <h3>🔎 What I'm learning</h3>
 <br>
 
@@ -147,6 +144,7 @@
 - ⏳ SASS
 - ⏳ TypeScript
 
+<br>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
