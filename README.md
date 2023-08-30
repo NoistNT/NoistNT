@@ -217,14 +217,12 @@
 
 ### GitHub Stats
 <div>
-  <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=noistnt&show_icons=true&locale=en&theme=tokyonight" alt="noistnt" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=noistnt&theme=tokyonight" alt="noistnt" />
-  </div>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noistnt&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="noistnt" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=noistnt&show_icons=true&locale=en&theme=tokyonight" alt="noistnt" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noistnt&theme=tokyonight" alt="noistnt" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noistnt&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="noistnt" />
 </div>
 
 <br/>
