@@ -215,8 +215,20 @@
 
 <br>
 
+### GitHub Stats
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noistnt&show_icons=true&locale=en&theme=tokyonight" alt="noistnt" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noistnt&theme=tokyonight" alt="noistnt" />
+  <br/>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noistnt&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="noistnt" />
+</div>
 
-<h2 align="center">Contact me</h2>
+<br/>
+
+<h2 align="center">Connect with me</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/ariel-piazzano/">
     <img
@@ -235,10 +247,10 @@
   <a href="https://www.instagram.com/arielgnr/">
     <img
       src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png"
-      alt="Gmail Logo"
+      alt="Instagram Logo"
       height="56"
     />
   </a>
 </div>
 
-#
+<h6 align="center">Made with ❤️ by NoistNT</h6>
