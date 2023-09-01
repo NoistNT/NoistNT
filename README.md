@@ -34,8 +34,8 @@
 <h3>🖥 Tech-Skills</h3>
 <br>
 
-- ✅ Languages ➤ JavaScript, TypeScript, HTML5, CSS3, SQL.
-- ✅ Front-End Development ➤ React, NextJS, Redux, TailwindCSS, Bootstrap, SASS.
+- ✅ Programing Languages ➤ JavaScript, TypeScript
+- ✅ Front-End Development ➤ HTML5, CSS3, React, NextJS, Redux, TailwindCSS, Bootstrap, SASS.
 - ✅ Back-End Development ➤ NodeJS, Express, Mongoose, Sequelize.
 - ✅ Database ➤ MongoDB, PostgreSQL.
 - ✅ Version control ➤ Git, GitHub.
