@@ -17,6 +17,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 48px></picture> **About me**
 
 <br>
+
 <div>
   <p align="left">
     <em>
