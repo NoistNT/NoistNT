@@ -33,7 +33,6 @@
 <br>
 
 <h3>🖥 Tech-Skills</h3>
-
 <br>
 
 - ✅ Programing Languages ➤ JavaScript, TypeScript
