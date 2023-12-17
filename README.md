@@ -33,7 +33,6 @@
 <br>
 
 <h3>🖥 Tech-Skills</h3>
-
 <br>
 
 - ✅ Programing Languages ➤ JavaScript, TypeScript
@@ -175,32 +174,15 @@
 <h3>🔎 What I'm learning</h3>
 <br>
 
-- ⏳ ChartJS
 - ⏳ Figma
-- ⏳ JestJS
 - ⏳ NestJS
 
 <br>
 <div align="center">
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.chartjs.org/media/logo-title.svg"
-      alt="chartjs"
-      width="45"
-      height="45"
-    />
-  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
-      width="45"
-      height="45"
-    />
-  <a href=https://jestjs.io/ target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"
-      alt="jest"
       width="45"
       height="45"
     />
