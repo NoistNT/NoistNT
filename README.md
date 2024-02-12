@@ -174,19 +174,10 @@
 <h3>🔎 What I'm learning</h3>
 <br>
 
-- ⏳ Figma
 - ⏳ NestJS
 
 <br>
 <div align="center">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="45"
-      height="45"
-    />
-  </a>
   <a href="https://www.nestjs.com/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain-wordmark.svg"
