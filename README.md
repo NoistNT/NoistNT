@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"
     ><img
-      src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full-Stack+Developer;Passion+for+front-end+development+&#10084;;Ariel+Piazzano;&font=Open+sans&center=true&vCenter=true&width=600&height=50&size=25"
+      src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full-Stack+Developer;Passion+for+web+development+&#10084;;Ariel+Piazzano;&font=Open+sans&center=true&vCenter=true&width=600&height=50&size=25"
   /></a>
 </p>
 
@@ -21,8 +21,7 @@
 <div>
   <p align="left">
     <em>
-      I'm a passionate full stack developer with a strong inclination
-      towards front-end development, always in search of new challenges to
+      I'm a passionate full stack developer who truly enjoys web development, always in search of new challenges to
       grow both personally and professionally in the IT world. My curiosity and
       enthusiasm lead me to explore different aspects of development, from
       interface design to back-end logic. I hope these projects reflect my way of
@@ -36,8 +35,8 @@
 <br>
 
 - ✅ Programing Languages ➤ JavaScript, TypeScript
-- ✅ Front-End Development ➤ HTML5, CSS3, React, NextJS, Redux, TailwindCSS, Bootstrap, SASS.
-- ✅ Back-End Development ➤ NodeJS, Express, Mongoose, Sequelize.
+- ✅ Front-End Development ➤ HTML5, CSS3, React, NextJS, Redux, TailwindCSS.
+- ✅ Back-End Development ➤ NodeJS, Express, NestJS, Mongoose, Sequelize.
 - ✅ Database ➤ MongoDB, PostgreSQL.
 - ✅ Version control ➤ Git, GitHub.
 
@@ -73,7 +72,7 @@
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img
-    src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg"
     alt="next"
     width="45"
     height="45"
@@ -119,34 +118,10 @@
       height="45"
     />
   </a>
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="45"
-      height="45"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="45"
-      height="45"
-    />
-  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="45"
-      height="45"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
       width="45"
       height="45"
     />
@@ -156,6 +131,22 @@
       src="https://www.nextontop.com/assets/img/services/web/expressjs.svg"
       background-color="#ffffff"
       alt="express"
+      width="45"
+      height="45"
+    />
+  </a>
+  <a href="https://www.nestjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original.svg"
+      alt="nestjs"
+      width="45"
+      height="45"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
       width="45"
       height="45"
     />
@@ -174,14 +165,14 @@
 <h3>🔎 What I'm learning</h3>
 <br>
 
-- ⏳ NestJS
+- ⏳ Go
 
 <br>
 <div align="center">
-  <a href="https://www.nestjs.com/" target="_blank" rel="noreferrer">
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain-wordmark.svg"
-    alt="nest"
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg"
+    alt="Go"
     width="45"
     height="45"
   />
