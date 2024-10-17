@@ -198,21 +198,19 @@
 <img src="https://media1.tenor.com/m/IeUI_IcNToMAAAAC/line-border.gif" width=100%>
 <br>
 
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=NoistNT&theme=tokyonight&margin-w=18" alt="NoistNT Throphies" />
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=NoistNT&no-frame=true&theme=tokyonight&column=4&margin-w=18&margin-h=18" alt="NoistNT Throphies" />
 </div>
 <br>
 
 <h3>📊 GitHub Stats</h3>
 <img src="https://media1.tenor.com/m/IeUI_IcNToMAAAAC/line-border.gif" width=100%>
-<div align=center>
-  <img alt="noistnt" height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=noistnt&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
-  <img alt="noistnt" height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=romanmeclazcke&theme=midnight-purple" />
-</div>
 <br>
 
 <div align=center>
   <a href="https://github.com/NoistNT">
+    <img alt="noistnt" height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=noistnt&show_icons=true&locale=en&layout=compact&hide_border=true&theme=midnight-purple" />
+    <img alt="noistnt" height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=romanmeclazcke&hide_border=true&theme=midnight-purple" />
     <img align="center" alt="NoistNT's github repos" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NoistNT&theme=midnight_purple" height=185 />
     <img align="center" alt="NoistNT's github commits by language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NoistNT&theme=midnight_purple" height=185 />
     <img align="center" alt="NoistNT's github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NoistNT&theme=midnight_purple" height=185 />
@@ -230,7 +228,7 @@
 <br>
 
 <img src="https://media1.tenor.com/m/IeUI_IcNToMAAAAC/line-border.gif" width=100%>
-<h2 align="center">Connect with me</h2>
+<h3 align="center">Connect with me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/ariel-piazzano/">
     <img
@@ -255,4 +253,4 @@
   </a>
 </div>
 
-<h6 align="center">Made with 🤍 by NoistNT</h6>
+<h6 align="center">Made with 🤍 by <a href="https://github.com/NoistNT/">NoistNT</a></h6>
