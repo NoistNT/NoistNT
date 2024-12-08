@@ -194,7 +194,7 @@
 
 <br>
 
-<h3>🏆 Thropies</h3>
+<h3>🏆 Trophies</h3>
 <img src="https://media1.tenor.com/m/IeUI_IcNToMAAAAC/line-border.gif" width=100%>
 <br>
 
