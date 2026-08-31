@@ -191,17 +191,6 @@
   </a>
 </div>
 
-<br>
-
-<h3>🏆 Trophies</h3>
-<img src="https://media1.tenor.com/m/IeUI_IcNToMAAAAC/line-border.gif" width=100%>
-<br>
-
-<div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=NoistNT&no-frame=true&theme=tokyonight&column=4&margin-w=18&margin-h=18" alt="NoistNT Throphies" />
-</div>
-<br>
-
 <h3>📊 GitHub Stats</h3>
 <img src="https://media1.tenor.com/m/IeUI_IcNToMAAAAC/line-border.gif" width=100%>
 <br>
